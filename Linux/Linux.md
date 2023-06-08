@@ -77,3 +77,18 @@ Shell is a command line interpreter which executes each command line by line.
 `ls` : It is used to list down all the sub-directories and files in the specified directory. <br>
 `ls -a` : It is used to list down all the sub-directories and files `including hidden items` in the specified directory. <br>
 `ls -l` : It is used to list down all the sub-directories and files in the specified directory `in a detailed manner`. <br>
+`mkdir` : This command is used to make a new directory. <br>
+`clear` : This command is used to clear the terminal. <br>
+`file name_of_file` : This command shows the details about the file specified. <br>
+`cat` : Displays the file's contents. It can also be used to combine the the contents of multiple files and output it to the terminal. <br>
+`rm` : It is used to remove a file. <br>
+`rmdir` : This command is used to remove the directory.It cannot remove a directory if it is empty.<br>
+`rm -rfv` : This command is an extension of the rm command. It includes the flags r,f and v. Here, "r" stands for recursive , "f" stands for force and "v" stands for verbose. This command is used to delete a non-empty directory. <br>
+`cp old_path/name_of_file new_path` : This command is used to copy files and directories from one place to another in the file system. <br>
+`mv old_path/name new_path/new_name` : This command is used to move files and directories from one place to another in the file system. It can also be used to rename a pre-existing file. <br>
+`man` : This command is used to show the manual pages of the commands. <br>
+`whatis` : Describes the command in short. <br>
+
+**NOTE:** # is used to add comments.
+
+
